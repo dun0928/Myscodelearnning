@@ -1,0 +1,491 @@
+fileFormatVersion: 2
+guid: 68bb956f126ac8a4cbdb07bfba14aa7b
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-1
+    second: {fileID: 2100000, guid: cfbe0788305c5394f80830023fc8f2e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-10
+    second: {fileID: 2100000, guid: de2ab10203d0bff40b527c62c5388dda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-11
+    second: {fileID: 2100000, guid: a9ac1c031d5bd6d47bf0dcdfa31e5e2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-12
+    second: {fileID: 2100000, guid: 2393c8fd5d6e6d84ead98e5062e17d7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-13
+    second: {fileID: 2100000, guid: 80b277ea79151664991746180e83565a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-14
+    second: {fileID: 2100000, guid: e503d92b7430ded4dbe4c95262fc2e45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-15
+    second: {fileID: 2100000, guid: 9c2d8f310324c284f8781f10add94ada, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-16
+    second: {fileID: 2100000, guid: cfc0e1597cf2b304396d16547a239edf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-17
+    second: {fileID: 2100000, guid: 9fdd0e5cc8474184fb1972fca518af87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-18
+    second: {fileID: 2100000, guid: ec409dc1c2f89a34fbe3cd9ede251644, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-19
+    second: {fileID: 2100000, guid: e05ce9f8e84740f46b3299c00d4dba38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-2
+    second: {fileID: 2100000, guid: da2824c0a43e0c249a5970c801850efb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-20
+    second: {fileID: 2100000, guid: a0f6560ad63e28d4d95df974bee532dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-21
+    second: {fileID: 2100000, guid: a8934357c8be7c1428ebc7f811aaa038, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-22
+    second: {fileID: 2100000, guid: 6fc3c733f79141f4cb1efb0d2f13fb5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-24
+    second: {fileID: 2100000, guid: 34d8943f3a027594bb0f5ce6a83fd7bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-25
+    second: {fileID: 2100000, guid: 6b4100325ece0a54cb4319aa3b203007, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-26
+    second: {fileID: 2100000, guid: 89ff94cd600478b4eaf659ec0167b81f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-27
+    second: {fileID: 2100000, guid: 43da5b43314c5b54fb11acc5115dcfbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-28
+    second: {fileID: 2100000, guid: fa39aec2eb83b7246b77ff7d419ae9fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-29
+    second: {fileID: 2100000, guid: c64226e9c9333d84ab86c077eb4003f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-3
+    second: {fileID: 2100000, guid: 727d7c8c95301f5418a7d8949f6de9e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-30
+    second: {fileID: 2100000, guid: 5cecb270d4787f5448b136c66c84f73c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-31
+    second: {fileID: 2100000, guid: 75a92b3dc6973ac46bf66d07c2dd5a32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-32
+    second: {fileID: 2100000, guid: cb9885cbb86e70d40a3ee4c4d9d86652, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-33
+    second: {fileID: 2100000, guid: 6508e8ff4f3f84a47abcfdde28c4b16f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-34
+    second: {fileID: 2100000, guid: 1cff94c2ed901594c98576bfcf722a2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-35
+    second: {fileID: 2100000, guid: fc4092dc664e5374f96d6e0f2b363dc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-36
+    second: {fileID: 2100000, guid: 8c061e7c27895004a826b149872d0d57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-37
+    second: {fileID: 2100000, guid: 51ce848e6da5ffc438303d8857a5bbf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-38
+    second: {fileID: 2100000, guid: f90c1c685582932428864e0f217305d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-39
+    second: {fileID: 2100000, guid: 88003d4f4ee583a41b07dfe4120e566c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-4
+    second: {fileID: 2100000, guid: bd91bab4cd38b5a43bbb5c669822c48b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-40
+    second: {fileID: 2100000, guid: c6d07f1d95f34324d8f3dd73bcd142e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-41
+    second: {fileID: 2100000, guid: 97671c2a2795cde4499f2a2ea1e23901, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-42
+    second: {fileID: 2100000, guid: 99c1ef23b6755d84f8e48ae047ee3255, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-43
+    second: {fileID: 2100000, guid: f4a8c92272f996848b88f36b926f33b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-44
+    second: {fileID: 2100000, guid: 4e72d6f2552a64a4792b8a151d4f1be3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-45
+    second: {fileID: 2100000, guid: b696da5a4dd43794eb21c38132074d4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-46
+    second: {fileID: 2100000, guid: f9d4d6e7e34e49643a288b9cbb62bacd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-47
+    second: {fileID: 2100000, guid: 0685731a0ced55643acdf34d6891cca1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-48
+    second: {fileID: 2100000, guid: 1559960ac56f93d45a9e4820b6102701, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-49
+    second: {fileID: 2100000, guid: d615024a974772a48a7ed4bc7395e757, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-5
+    second: {fileID: 2100000, guid: 339d76aaece06d74da82a8d6299fd0d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-50
+    second: {fileID: 2100000, guid: 37382dca509f9e64d9319aa0cd0a367e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-51
+    second: {fileID: 2100000, guid: 731b9f3f3fa3c3c428c17799ca2ff553, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-52
+    second: {fileID: 2100000, guid: 01558ee50bc790d488892e4005e201b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-53
+    second: {fileID: 2100000, guid: 68625577529f7b8468c177306e661929, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-54
+    second: {fileID: 2100000, guid: 90cd380727f04e746bc93a1fccfc71b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-55
+    second: {fileID: 2100000, guid: cc4e3933d6574444ea2b7eb8a19e64bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-56
+    second: {fileID: 2100000, guid: b868ba7f63258674e8065b48bf3220d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-57
+    second: {fileID: 2100000, guid: 9d64c5ac056c79444beaa59a28811e43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-58
+    second: {fileID: 2100000, guid: 0dd80a0308ad94443a030ec34556553d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-59
+    second: {fileID: 2100000, guid: fcb5491e75a34964ea302bbeede3d175, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-6
+    second: {fileID: 2100000, guid: a0b019bba1824894db69644948ca9f6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-60
+    second: {fileID: 2100000, guid: c9fd4ab3114358a4ca1dbd3fa9c3b11c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-61
+    second: {fileID: 2100000, guid: d10ccb69c124783418296c5eaa21c20d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-62
+    second: {fileID: 2100000, guid: a8a05bc9a0bf1ce418f0c843cb88ea93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-63
+    second: {fileID: 2100000, guid: 6f50473c590928449b7c1449a1d7273d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-64
+    second: {fileID: 2100000, guid: 14d204789f6b2da4bbc5143ece41ca21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-65
+    second: {fileID: 2100000, guid: 759dd65b76e24bc44812f9e3db0341be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-66
+    second: {fileID: 2100000, guid: d7e9fa61bac47ad4caf8bb9450663929, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-67
+    second: {fileID: 2100000, guid: 37d1825943565564f84349d6699c7951, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-68
+    second: {fileID: 2100000, guid: 7ce36689c8e30954ebdd8b76d8ad81e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-69
+    second: {fileID: 2100000, guid: 62c4a67ee3d172a43a0b9008f42bad6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-7
+    second: {fileID: 2100000, guid: fc3172164d498dd4ea536ad171b07d3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-70
+    second: {fileID: 2100000, guid: d02c3b0b1b6af284da4b69d388b7fd34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-71
+    second: {fileID: 2100000, guid: d3d5fb9c81b61634fab9c8fb1997788b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-72
+    second: {fileID: 2100000, guid: c9dd985704e08de42926473af0ac34a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-73
+    second: {fileID: 2100000, guid: 4a6e65a551467eb47a1127a805edbdbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-74
+    second: {fileID: 2100000, guid: e6f96bad3c53a484f9b2f41051bde72f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-75
+    second: {fileID: 2100000, guid: 9e9649d46e38bf240a3eb622bc825459, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-76
+    second: {fileID: 2100000, guid: c0c006061f075314a9f3190c3fe68068, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-77
+    second: {fileID: 2100000, guid: cc204fdaebc6ec345a56078167981152, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-78
+    second: {fileID: 2100000, guid: a3bc1e5b5e83b9e44bd0af907732d66f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-8
+    second: {fileID: 2100000, guid: 14450ca75781b6c4a830ed479c9a866a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biandianzhanmax121-m-9
+    second: {fileID: 2100000, guid: 98951c4cd789f3947b20df68fa09353f, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
